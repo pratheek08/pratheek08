@@ -1,21 +1,21 @@
 # Leetcode
 
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/3b6ac2b6-5f98-4b1e-93df-b1ec6e94ec41 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/7fcec83f-3341-41fa-be83-e3eccd073de2 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/d708c007-dab0-4a4a-bf43-3ebc40952dd9 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/cb91d73a-1325-409d-8dd5-f3759ef4e4df " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/b52cda84-45b9-4e15-b17a-b77d706e1f1b " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/6e13dded-e293-4344-a6ff-74331ebd3027 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/4aa79fd1-62ea-443c-be9e-6aa4b79912ee " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/35c95363-3dad-40b0-96e2-0ea0693c589c " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/a32f94f5-7b11-433d-848e-c26626b5bf21 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/a1d8b3dd-2f72-4ab6-8dba-15edf1defc83 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/7697cac6-5406-41c9-86db-05cbef5daf51 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/48cb0d6c-558f-4d8b-a2b3-c8c092a248e3 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/292196a5-4534-4242-9afb-7e57246ee515 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/c5d8349f-a71d-4027-a664-88d74acc2014 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/7c85a5b6-f614-495a-ae6b-bb610fbb0746 " width="40px"></img>
-<img src = "https://github.com/pratheek08/Pratheek-U-B/assets/83898956/eeaee91e-18ae-4ff6-a286-9a9c29831343)" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/e0c846c8-45a0-4028-afa8-9277c887818a" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/c0b6464f-863f-4212-b8bc-5f856f0e5a40" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/6da9a0b6-9cd0-4758-b246-ac4ad223841e" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/a43e7b20-f7da-45e6-b403-b8434cace1ef" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/08db57ce-19d0-475b-aaa3-5be64475274c" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/e3115268-0851-46f5-81d4-a5d38df803ca" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/d1fa1a92-6de9-4a99-b0be-cd9cbcc2a2dd" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/df0141da-22da-4c1a-91b9-d1d2cb58e1e5" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/545174b0-96c8-4de8-b683-79ba876b0008" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/e28f76d9-339f-4519-aa70-10422ca92b95" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/80b5b51c-cf23-4716-bac9-2c3811014e4a" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/fbcc5635-5c4c-4347-8441-6ede954b7fa6" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/cf5d5fc1-f4aa-4bf7-835c-fd7978d92085" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/737bde0c-ec45-4cb7-9b4b-8b838421829d" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/754f545e-1a3b-4bfe-b760-51f45b2d8f43" width="40px"></img>
+<img src = "https://github.com/pratheek08/pratheek08/assets/83898956/fee04bff-8f11-4f54-b1c8-7518a66ab196" width="40px"></img>
 
 <br>
 <a href="https://leetcode.com/u/Pratheek08/">
